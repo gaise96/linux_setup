@@ -25,9 +25,7 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
     - vs code
     - phpstorm
 
-## Database / GUI
-    - mySQL
-    - mongo DB
+## Database GUI
     - table plus
     - compass DB
 
@@ -71,7 +69,6 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
     - notion
     - zoom
     - megasync
-    - ulauncher
 	- DroidCam
 
 ## Fonts
@@ -95,3 +92,6 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
 	- Dash to Dock animator
 	- GSConnect
 	- User theme
+	- search light
+	- activities filled pill
+	- Add User to Top Panel
