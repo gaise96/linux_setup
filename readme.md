@@ -110,3 +110,7 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
 	- just perfection
 	- login manager
 	- desktop icons ng
+	- hide top bar
+	- Light/Dark Theme Switcher 
+	- Sound Input & Output Device Chooser 
+	- logo menu
