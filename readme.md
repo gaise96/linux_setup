@@ -11,13 +11,13 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
     * path             : contient les paths et des alias (les alias sont personnelles a vous de creer les votre selon vos besoins)
 
 ## OS
-    - ubuntu 22.04 LTS (en version minimal) - vous etes libre de choisir la distribution de votre choix
+    - ubuntu 22.04 LTS (en version minimal) - vous êtes libre de choisir la distribution de votre choix
     - text d'interface    : SF Pro Display Medium -> 9
     - text de document    : SF Pro Display Medium -> 9
     - texte a chasse fixe : SF Mono Regular -> 13
     - Anciens titre de f. : SF Pro Display Bold -> 9
     - terminal customize  : 
-	* font -> fira code : 10
+	* font -> SF Mono : 11
 	* width -> 140
 	* height -> 35
 	* theme : adwaita-dark
@@ -25,7 +25,6 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
 	
 ## IDEs
     - vs code
-    - phpstorm
 
 ## Database GUI
     - table plus
@@ -33,7 +32,6 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
 
 ## Devtools
     - docker
-    - docker desktop
     - composer
     - nodejs
     - npm
@@ -55,7 +53,6 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
 
 ## Audio et video
     - vlc
-    - handbrake
 
 ## Images / videos / enegistrement
     - gimp
@@ -65,7 +62,6 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
 ## Others
     - zsh -> OhMyZSH
     - vim
-    - tmux
     - nala
     - virtualbox
     - neofecth
@@ -74,10 +70,8 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
     - zoom
     - megasync
 	- DroidCam
-	- gradience
 	- parabolic
 	- thunderbird
-	- firefox gnome theme
 	- thunderbird gnome theme
 	- phpactor (**https://phpactor.readthedocs.io/en/master/usage/standalone.html**)
 	
@@ -85,18 +79,14 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
 ## Fonts
     - jetBrains (tous les IDEs)
     - SF Pro Display Medium
-    - Operator Mono 
 
 ## vs code extensions
 	- vscode config
 	- phpactor.vsix (**https://github.com/phpactor/vscode-phpactor**)
-	
-## phpstorm
-	- phpstorm config
+
 	
 ## Gnome extensions
 	- AppIndicator and KStatusNotififierItem Support
-	- Bluetooth Quick Connect
 	- Blur my shell
 	- Caffeine
 	- Compiz alike magic lamp effect
@@ -105,12 +95,9 @@ Mon **environnement de travail sous linux** avec possibilite d'avoir des fichier
 	- GSConnect
 	- User theme
 	- search light
-	- activities filled pill
 	- Add User to Top Panel
 	- just perfection
 	- login manager
 	- desktop icons ng
-	- hide top bar
-	- Light/Dark Theme Switcher 
 	- Sound Input & Output Device Chooser 
 	- logo menu
