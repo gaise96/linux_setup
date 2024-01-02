@@ -1,4 +1,4 @@
-# Instalation de composer
+# Installation de composer
 
 sudo apt update &&
 sudo apt install -y php-cli unzip &&
